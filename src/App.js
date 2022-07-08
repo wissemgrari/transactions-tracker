@@ -37,4 +37,7 @@ const Wrapper = styled.div`
   @media (min-width: 360px) {
     width: 320px;
   }
+  @media (min-width: 300px) {
+    width: 280px;
+  }
 `;
